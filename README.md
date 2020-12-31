@@ -1,1 +1,1 @@
- Deep Learning model
+ Deep Learning model using LSTM RNN
